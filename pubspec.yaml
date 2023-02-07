@@ -1,0 +1,12 @@
+name: delayed_proxy_http_client
+description: HttpClient implementation which can resolve proxy server asynchronously.
+version: 1.0.0
+homepage: https://github.com/ky1vstar/delayed_proxy_http_client
+issue_tracker: https://github.com/ky1vstar/delayed_proxy_http_client/issues
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  lint: ^2.0.1
+  test: ^1.16.0
