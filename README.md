@@ -6,7 +6,7 @@ It is designed to be used with packages like [system_proxy_resolver](https://pub
 
 ## Usage
 
-To use this plugin, add `shared_preferences` as a [dependency in your pubspec.yaml file](https://dart.dev/tools/pub/dependencies).
+To use this plugin, add `delayed_proxy_http_client` as a [dependency in your pubspec.yaml file](https://dart.dev/tools/pub/dependencies).
 
 ### Example
 
